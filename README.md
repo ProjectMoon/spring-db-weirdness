@@ -1,0 +1,1 @@
+This is a reproducible test case for Spring + MySQL JDBC connector not properly recognizing an output parameter (or me doing something wrong that I've missed!).
